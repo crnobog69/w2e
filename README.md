@@ -1,4 +1,4 @@
-# <p align="center">Ворд у Ексел</p>
+# <p align="center">Word 2 Excel</p>
 
 ### <p align="center">(w2e)</p>
 
