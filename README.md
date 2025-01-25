@@ -45,17 +45,10 @@ python w2e.py
 - setuptools
 
 > [!NOTE]
-> Обавезно активирајте виртуелно окружење ако га користите:
+> Активирајте виртуелно окружење ако га користите:
 > <br>
 > ```bash
 > source ~/orbit-server/venv/bin/activate
-```
-
-## Напомена
-Обавезно активирајте виртуелно окружење ако га користите:
-```bash
-source ~/orbit-server/venv/bin/activate
-```
 
 ## Лиценца
 MIT Лиценца
